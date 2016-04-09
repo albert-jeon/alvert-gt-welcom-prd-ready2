@@ -1,0 +1,632 @@
+[
+  {
+    "proposalName": "[제안->삼성디스플레이] 던킨도너츠(삼성탕정점) 웰컴 이용 제안",
+    "proposalDesc": "던킨도너츠(삼성탕정점)이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 812
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 배스킨라빈스(탕정삼성전자점) 웰컴 이용 제안",
+    "proposalDesc": "배스킨라빈스(탕정삼성전자점)이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 850
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 도미노피자(탕정삼성점) 웰컴 이용 제안",
+    "proposalDesc": "도미노피자(탕정삼성점)이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 851
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] BBQ치킨(삼성전자탕정점) 웰컴 이용 제안",
+    "proposalDesc": "BBQ치킨(삼성전자탕정점)이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 813
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 국대떡볶이 아산탕정점 웰컴 이용 제안",
+    "proposalDesc": "국대떡볶이 아산탕정점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 814
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] W버거 아산탕정점 웰컴 이용 제안",
+    "proposalDesc": "W버거 아산탕정점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 815
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 오브제스킨케어 웰컴 이용 제안",
+    "proposalDesc": "오브제스킨케어가 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 816
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 클라라네일아트 웰컴 이용 제안",
+    "proposalDesc": "클라라네일아트가 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 817
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 아티제 탕정점 웰컴 이용 제안",
+    "proposalDesc": "아티제 탕정점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 818
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 나누나누 사진관 웰컴 이용 제안",
+    "proposalDesc": "나누나누 사진관이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 819
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 서초플라워샵 웰컴 이용 제안",
+    "proposalDesc": "서초플라워샵이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 820
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 골드라인 웰컴 이용 제안",
+    "proposalDesc": "골드라인이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 821
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 오븐에빠진닭 탕정점 웰컴 이용 제안",
+    "proposalDesc": "오븐에빠진닭 탕정점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 822
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 티볼리 웰컴 이용 제안",
+    "proposalDesc": "티볼리가 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 10% 할인",
+    "allianceCondition": "- 세트메뉴 또는 음료(주류)는 할인에서 제외 \n - 야우리멤버스 및 타 멤버십과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 823
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 14일동안 천안점 웰컴 이용 제안",
+    "proposalDesc": "14일동안 천안점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 20% 할인",
+    "allianceCondition": "- 타 멤버십 또는 할인 프로모션과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 824
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 더캣 웰컴 이용 제안",
+    "proposalDesc": "더캣이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 동물 잠옷 무료 대여",
+    "allianceCondition": "- 야우리멤버스 및 타 멤버십과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 825
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 호미빙 신부점 웰컴 이용 제안",
+    "proposalDesc": "호미빙 신부점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 빙수제품 구매 시 아메리카노 증정",
+    "allianceCondition": "- 야우리멤버스 및 타 멤버십과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 826
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 후쿠오카함바그 천안신부동점 웰컴 이용 제안",
+    "proposalDesc": "후쿠오카함바그 천안신부동점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 사이즈업(함바그, 와규) \n · 에이드 50% 할인",
+    "allianceCondition": "- 테이블 당 1회 사용가능 \n - 야우리멤버스 및 타 멤버십과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 827
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 툰하우스 만화카페 웰컴 이용 제안",
+    "proposalDesc": "툰하우스 만화카페가 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 종일 이용권 20% 할인 \n · 음료 무료제공 or 추가 1시간 무료 중 택 일",
+    "allianceCondition": "- 주말 또는 공휴일에는 종일 이용권 할인이 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 828
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] J의 꽃다방 웰컴 이용 제안",
+    "proposalDesc": "J의 꽃다방이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 가정식 주문시 모든 음료 30% 할인",
+    "allianceCondition": "- 야우리멤버스 및 타 멤버십과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 829
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 망고식스 천안두정점 웰컴 이용 제안",
+    "proposalDesc": "망고식스 천안두정점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 음료 및 빙수 10% 할인",
+    "allianceCondition": "- 타 멤버십 및 타 할인 프로모션과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 830
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 나무커피 전문점 웰컴 이용 제안",
+    "proposalDesc": "나무커피 전문점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 음료 20% 할인",
+    "allianceCondition": "- Tea 종류는 할인에서 제외 \n - 타 할인 프로모션과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 831
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 조선주막 두정점 웰컴 이용 제안",
+    "proposalDesc": "조선주막 두정점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 김치전 or 두부김치 택 일 제공 \n · 음료수 무료제공",
+    "allianceCondition": "- 테이블 당 1회 사용가능",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 832
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 스킨케어 예원 웰컴 이용 제안",
+    "proposalDesc": "스킨케어 예원이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 10% 할인",
+    "allianceCondition": "- 처음 방문 고객님께는 15% 할인이 적용됩니다",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 833
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 다비치안경 천안두정점 웰컴 이용 제안",
+    "proposalDesc": "다비치안경 천안두정점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 10% 할인",
+    "allianceCondition": "- 팩렌즈, 선글라스, 행사제품 등 일부품목 제외 \n - 타 멤버십 및 할인 프로모션과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 834
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 원할머니보쌈 천안두정점 웰컴 이용 제안",
+    "proposalDesc": "원할머니보쌈 천안두정점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 10% 할인",
+    "allianceCondition": "- 1회 사용시 최대 할인 한도 2만원 \n - 매장 방문고객에 한해 할인혜택 제공 \n - 테이블당 1회 사용가능 \n - 타 멤버십 및 할인 프로모션과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 835
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 스푼더마켓 천안두정점 웰컴 이용 제안",
+    "proposalDesc": "스푼더마켓 천안두정점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 평일 10% 할인, 주말 15% 할인",
+    "allianceCondition": "- 테이블 당 1회 사용 가능 \n - 타 멤버십 및 할인 프로모션과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 836
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] Kaldi9 (칼디9) 웰컴 이용 제안",
+    "proposalDesc": "Kaldi9 (칼디9)이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 커피(음료) 주문시 아메리카노 무료리필 제공",
+    "allianceCondition": "- 아메리카노 리필 1회 제공 \n - 타 멤버십과 중복 사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 837
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] CGV 천안점 웰컴 이용 제안",
+    "proposalDesc": "CGV 천안점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 영화티켓 2,000원 할인",
+    "allianceCondition": "- 동반 1인까지 할인 가능 \n - 타 제휴카드 및 할인 프로모션(조조 등)과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 838
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 다비치안경 천안백석점 웰컴 이용 제안",
+    "proposalDesc": "다비치안경 천안백석점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 10% 할인",
+    "allianceCondition": "- 팩렌즈, 선글라스, 행사제품 등 일부품목 제외 \n - 타 멤버십 및 할인 프로모션과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 839
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 보스톤연합치과 웰컴 이용 제안",
+    "proposalDesc": "보스톤연합치과가 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 비보험 진료 20% 할인(교정치료 제외) \n · 임플란트 30% 할인(130만원 → 90만원) \n · 스케일링 1만3천원",
+    "allianceCondition": "- 타 할인프로모션과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 840
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 네일닥터 두정점 웰컴 이용 제안",
+    "proposalDesc": "네일닥터 두정점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 10% 할인",
+    "allianceCondition": "- 타 멤버십 및 할인 프로모션과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 841
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 카페르블랑 천안두정점 웰컴 이용 제안",
+    "proposalDesc": "카페르블랑 천안두정점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 모든 음료 20% 할인",
+    "allianceCondition": "- 음료 외 종류의 판매 상품은 할인에서 제외 \n - 타 멤버십 및 할인 프로모션과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 842
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 천안우리병원 웰컴 이용 제안",
+    "proposalDesc": "천안우리병원이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 비급여 10% 할인 \n · 종합검진 20% 할인",
+    "allianceCondition": "- 타 제휴 프로그램과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 843
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 깐풍기브라더스 천안두정점 웰컴 이용 제안",
+    "proposalDesc": "깐풍기브라더스 천안두정점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 감자튀김 서비스 제공 \n · 병 음료 무료제공",
+    "allianceCondition": "- 테이블 당 1회 사용 가능",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 844
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 화인메트로병원 웰컴 이용 제안",
+    "proposalDesc": "화인메트로병원이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 본인부담금의 8% 할인",
+    "allianceCondition": "- 타 제휴 프로그램과 중복사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 845
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 소나무 웰컴 이용 제안",
+    "proposalDesc": "소나무가 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 10% 할인",
+    "allianceCondition": "- 1회 사용시 최대 할인 한도 3만원 \n - 테이블 당 1회 사용 가능 \n - 타 할인 프로모션과 중복 사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 846
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 불타는자갈집 웰컴 이용 제안",
+    "proposalDesc": "불타는자갈집이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 15% 할인",
+    "allianceCondition": "- 식사류 및 주류는 할인에서 제외 \n - 테이블 당 1회 사용 가능 \n - 타 할인 프로모션과 중복 사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 847
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 하남돼지집 천안두정점 웰컴 이용 제안",
+    "proposalDesc": "하남돼지집 천안두정점이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 고기 주문시 버섯모듬 서비스 제공 \n · 김치찌개 or 어무이찌개 택 일 서비스 제공",
+    "allianceCondition": "- 테이블 당 1회 사용 가능",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 848
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 팀영어학원 웰컴 이용 제안",
+    "proposalDesc": "팀영어학원이 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "· 수걍료 10% 할인 \n · 온라인 동영상 수강권 제공",
+    "allianceCondition": "- 타 할인 프로모션과 중복 사용 불가",
+    "company": {
+      "companyId": 760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+      "storeId": 849
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 소통카페 웰컴 이용 제안",
+    "proposalDesc": "소통카페가 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+		"companyId":760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+		"storeId": 1212
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 7라인 웰컴 이용 제안",
+    "proposalDesc": "소통카페가 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+		"companyId":760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+		"storeId": 1212
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 블루홀 웰컴 이용 제안",
+    "proposalDesc": "소통카페가 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+		"companyId":760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+		"storeId": 1212
+    },
+    "storeStatus": "REQUEST"
+  },
+  {
+    "proposalName": "[제안->삼성디스플레이] 8라인 웰컴 이용 제안",
+    "proposalDesc": "소통카페가 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+		"companyId":760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+		"storeId": 1212
+    },
+    "storeStatus": "REQUEST"
+  },
+   {
+    "proposalName": "[제안->삼성디스플레이] 모듈동 웰컴 이용 제안",
+    "proposalDesc": "소통카페가 삼성디스플레이에게 임직원 제휴혜택를 제안합니다.",
+    "alliance": "임직원 복지매장",
+    "allianceCondition": "",
+    "company": {
+		"companyId":760
+    },
+    "companyStatus": "ACCEPT",
+    "store": {
+		"storeId": 1212
+    },
+    "storeStatus": "REQUEST"
+  }
+]

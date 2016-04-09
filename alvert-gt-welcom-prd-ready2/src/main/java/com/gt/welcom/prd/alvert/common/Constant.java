@@ -26,7 +26,7 @@ public class Constant {
 	}
 
 	private void setAlliance(){
-		this.alliance = new JSONArray(this.readFile("alliance/alliance").toString());
+		this.alliance = new JSONArray(this.readFile("alliance").toString());
 	}
 
 	private StringBuilder readFile(String filePath){
