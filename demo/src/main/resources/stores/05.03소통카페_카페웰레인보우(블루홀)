@@ -1,0 +1,55 @@
+{
+  "storeCategory": "ST02",
+  "storeCode": "5266",
+  "storeDesc": "카페웰레인보우",
+  "storeName": "블루홀",
+  "workTime": "08:00 ~ 20:00",
+  "storeScope":"PRIVATE",
+  "address": {
+    "addrDetail": "소통카페",
+    "addrMain": "충청남도 아산시 탕정면 삼성로 181",
+    "postCode": ""
+  },
+  "tel": "041-535-7989",
+  "hollayDay": "공휴일",
+ "photos":[
+   {
+     "domainName":"STORE",
+     "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/stores/no_image.png"
+   }
+  ],
+  "certifiedNumber": "",
+  "certifiedPaper": "",
+  "convenience": {
+    "groupseat": "Y",
+    "pack": "Y",
+    "parking": "N",
+    "reservation": "Y",
+    "wifi": "Y"
+  },
+  "dealer": {    
+    "user": {
+      "userId": "cafewell"
+    }
+  },
+   "staffs":[  
+         {  
+            "staffRole":"STAFF",
+            "user":{  
+               "name":"",
+	       "userId":"blue",
+               "password":"blue5266",
+               "userType":"STAFF"
+            }
+         }
+      ],
+  "socialNetwork": {
+    "blog": "",
+    "cafe": "",
+    "facebook": "",
+    "instagram": "",
+    "kakaostory": "",
+    "site": "",
+    "twitter": ""
+  }
+}

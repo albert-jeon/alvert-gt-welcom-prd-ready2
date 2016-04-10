@@ -1,0 +1,87 @@
+[
+  {
+    "productName": "증명사진 촬영권",
+    "productDesc": "출입증,여권사진,각종 증명사진 촬영권",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 나누나누 사진관(복지동 3층) \n ※ 해당 교환권은 나누나누 사진관(복지동 3층)에서만 이용이 가능합니다.",
+    "price": 15000,
+    "discount": 15000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/10-p1.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"thenanu3"}}
+    }
+  },
+  {
+    "productName": "가족사진 상품권",
+    "productDesc": "가족사진촬영 상품권 (액자 포함)",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 나누나누 사진관(복지동 3층) \n ※ 해당 교환권은 나누나누 사진관(복지동 3층)에서만 이용이 가능합니다.",
+    "price": 100000,
+    "discount": 100000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/10-p2.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"thenanu3"}}
+    }
+  },
+  {
+    "productName": "아기사진 상품권",
+    "productDesc": "아기 백일, 돌, 쥬니어 사진 스튜디오 촬영 상품권",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 나누나누 사진관(복지동 3층) \n ※ 해당 교환권은 나누나누 사진관(복지동 3층)에서만 이용이 가능합니다.",
+    "price": 130000,
+    "discount": 130000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/10-p3.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"thenanu3"}}
+    }
+  },
+  {
+    "productName": "스냅사진 촬영 상품권",
+    "productDesc": "결혼식,돌잔치,회사행사,공연등 출장촬영권(1~3시간촬영 50매인화)",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 나누나누 사진관(복지동 3층) \n ※ 해당 교환권은 나누나누 사진관(복지동 3층)에서만 이용이 가능합니다.",
+    "price": 200000,
+    "discount": 200000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/10-p4.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"thenanu3"}}
+    }
+  },
+  {
+    "productName": "기프트권",
+    "productDesc": "사진인화, 액자, 포토 머그컵, 포토 롤블라인드, 포토 핸드폰 케이스등 구매가능",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 나누나누 사진관(복지동 3층) \n ※ 해당 교환권은 나누나누 사진관(복지동 3층)에서만 이용이 가능합니다.",
+    "price": 50000,
+    "discount": 50000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/10-p5.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"thenanu3"}}
+    }
+  }
+]

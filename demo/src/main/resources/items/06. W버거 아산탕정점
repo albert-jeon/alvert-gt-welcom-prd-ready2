@@ -1,0 +1,121 @@
+[
+  {
+    "productName": "치즈 or 베이컨 세트",
+    "productDesc": "치즈 or 베이컨 수제버거를 세트로 즐겨보세요! (버거 + 웨지감자1/3 + 소다)",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: W버거 아산탕정점(나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 W버거 타 매장에서는 이용이 불가합니다.",
+    "price": 7400,
+    "discount": 7400,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/06-p1.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"omh2200"}}
+    }
+  },
+  {
+    "productName": "W치즈 or W베이컨 세트",
+    "productDesc": "프리미엄 수제 버거 W치즈 or W베이컨을 세트로 즐겨보세요! (버거 + 웨지감자1/3 + 소다)",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: W버거 아산탕정점(나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 W버거 타 매장에서는 이용이 불가합니다.",
+    "price": 9200,
+    "discount": 9200,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/06-p2.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"omh2200"}}
+    }
+  },
+  {
+    "productName": "텐더치킨 세트",
+    "productDesc": "인기 수제버거 텐더치킨을 세트로 즐겨보세요! (버거 + 웨지감자1/3 + 소다)",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: W버거 아산탕정점(나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 W버거 타 매장에서는 이용이 불가합니다.",
+    "price": 7700,
+    "discount": 7700,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/06-p3.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"omh2200"}}
+    }
+  },
+  {
+    "productName": "점보 세트",
+    "productDesc": "프리미엄 인기메뉴 점보 세트! (버거 + 웨지감자1/3 + 소다)",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: W버거 아산탕정점(나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 W버거 타 매장에서는 이용이 불가합니다.",
+    "price": 12700,
+    "discount": 12700,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/06-p4.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"omh2200"}}
+    }
+  },
+  {
+    "productName": "치킨너겟 (4조각)",
+    "productDesc": "사이드 인기 메뉴 치킨 너겟 (4조각)",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: W버거 아산탕정점(나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 W버거 타 매장에서는 이용이 불가합니다.",
+    "price": 3000,
+    "discount": 3000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/06-p5.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"omh2200"}}
+    }
+  },
+  {
+    "productName": "핫윙 (10조각)",
+    "productDesc": "매콤한 핫윙 10조각을 저렴한 가격으로!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: W버거 아산탕정점(나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 W버거 타 매장에서는 이용이 불가합니다.",
+    "price": 10000,
+    "discount": 10000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/06-p6.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"omh2200"}}
+    }
+  },
+  {
+    "productName": "핫윙 (2조각)",
+    "productDesc": "사이드 인기 메뉴 핫윙 2조각!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: W버거 아산탕정점(나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 W버거 타 매장에서는 이용이 불가합니다.",
+    "price": 2600,
+    "discount": 2600,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/06-p7.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"omh2200"}}
+    }
+  }
+]

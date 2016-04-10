@@ -1,0 +1,189 @@
+[
+  {
+    "productName": "아메리카노",
+    "productDesc": "에스프레소에 따뜻한 물을 섞어 깊은 맛의 아메리카노",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용시 잔액 사용이 불가액은 지불되지 않습니다. \n 3. 이용 가능 매장: 소통카페(7라인, 8라인, 모듈동, 블랙홀) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다.",
+    "price": 1000,
+    "discount": 1000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/00-p1.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"gtention_cafe_s"}}]
+    }
+  },
+  {
+    "productName": "아이스 아메리카노",
+    "productDesc": "에스프레소에 차가운 물을 섞은 아이스 아메리카노",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용시 잔액 사용이 불가액은 지불되지 않습니다. \n 3. 이용 가능 매장: 소통카페(7라인, 8라인, 모듈동, 블랙홀) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다.",
+    "price": 1500,
+    "discount": 1500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/00-p2.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"gtention_cafe_s"}}]
+    }
+  },
+  {
+    "productName": "카페라떼",
+    "productDesc": "우유맛이 부드러운 카페라떼",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용시 잔액 사용이 불가액은 지불되지 않습니다. \n 3. 이용 가능 매장: 소통카페(7라인, 8라인, 모듈동, 블랙홀) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다.",
+    "price": 1800,
+    "discount": 1800,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/00-p3.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"gtention_cafe_s"}}]
+    }
+  },
+  {
+    "productName": "카페라떼 아이스",
+    "productDesc": "우유맛이 부드러운 차가운 카페라떼",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용시 잔액 사용이 불가액은 지불되지 않습니다. \n 3. 이용 가능 매장: 소통카페(7라인, 8라인, 모듈동, 블랙홀) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다.",
+    "price": 2000,
+    "discount": 2000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/00-p4.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"gtention_cafe_s"}}]
+    }
+  },
+  {
+    "productName": "바닐라라떼",
+    "productDesc": "바닐라향이 달콤 따뜻한 바닐라라떼",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용시 잔액 사용이 불가액은 지불되지 않습니다. \n 3. 이용 가능 매장: 소통카페(7라인, 8라인, 모듈동, 블랙홀) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다.",
+    "price": 1800,
+    "discount": 1800,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/00-p5.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"gtention_cafe_s"}}]
+    }
+  },
+  {
+    "productName": "바닐라라떼 아이스",
+    "productDesc": "바닐라향이 달콤한 아이스 바닐라라떼",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용시 잔액 사용이 불가액은 지불되지 않습니다. \n 3. 이용 가능 매장: 소통카페(7라인, 8라인, 모듈동, 블랙홀) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다.",
+    "price": 2000,
+    "discount": 2000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/00-p6.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"gtention_cafe_s"}}]
+    }
+  },
+  {
+    "productName": "카페모카",
+    "productDesc": "초콜릿과 에스프레소가 어우러진 따뜻한 카페모카",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용시 잔액 사용이 불가액은 지불되지 않습니다. \n 3. 이용 가능 매장: 소통카페(7라인, 8라인, 모듈동, 블랙홀) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다.",
+    "price": 2000,
+    "discount": 2000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/00-p7.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"gtention_cafe_s"}}]
+    }
+  },
+  {
+    "productName": "레몬아이스티",
+    "productDesc": "상큼하고 시원한 맛의 레몬 아이스티",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용시 잔액 사용이 불가액은 지불되지 않습니다. \n 3. 이용 가능 매장: 소통카페(7라인, 8라인, 모듈동, 블랙홀) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다.",
+    "price": 1500,
+    "discount": 1500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/00-p8.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"gtention_cafe_s"}}]
+    }
+  },
+  {
+    "productName": "복숭아아이스티",
+    "productDesc": "상큼하고 시원한 맛의 복숭아 아이스티",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용시 잔액 사용이 불가액은 지불되지 않습니다. \n 3. 이용 가능 매장: 소통카페(7라인, 8라인, 모듈동, 블랙홀) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다.",
+    "price": 1500,
+    "discount": 1500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/00-p9.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"gtention_cafe_s"}}]
+    }
+  },
+  {
+    "productName": "유자차",
+    "productDesc": "건강까지 생각하는 따뜻한 유자차",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용시 잔액 사용이 불가액은 지불되지 않습니다. \n 3. 이용 가능 매장: 소통카페(7라인, 8라인, 모듈동, 블랙홀) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다.",
+    "price": 1500,
+    "discount": 1500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/00-p10.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"gtention_cafe_s"}}]
+    }
+  },
+  {
+    "productName": "바나나쥬스",
+    "productDesc": "바나나 맛이 달콤한 바나나쥬스",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용시 잔액 사용이 불가액은 지불되지 않습니다. \n 3. 이용 가능 매장: 소통카페(7라인, 8라인, 모듈동, 블랙홀) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다.",
+    "price": 2000,
+    "discount": 2000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/00-p11.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"gtention_cafe_s"}}]
+    }
+  }
+]

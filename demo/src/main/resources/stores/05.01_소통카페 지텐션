@@ -1,0 +1,59 @@
+{
+  "storeCategory": "ST02",
+  "storeCode": "",
+  "storeDesc": "소통카페",
+  "storeName": "소통카페",
+  "workTime": "08:00 ~ 20:00",
+  "storeScope":"PUBLIC",
+  "address": {
+    "addrDetail": "소통카페",
+    "addrMain": "충청남도 아산시 탕정면 삼성로 181",
+    "postCode": ""
+  },
+  "tel": "",
+  "hollayDay": "공휴일",
+ "photos":[
+   {
+     "domainName":"STORE",
+     "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/stg/stores/no_image.png"
+   }
+  ],
+  "certifiedNumber": "",
+  "certifiedPaper": "",
+  "convenience": {
+    "groupseat": "Y",
+    "pack": "Y",
+    "parking": "N",
+    "reservation": "Y",
+    "wifi": "Y"
+  },
+  "dealer": {    
+    "user": {
+      "name": "",
+      "userId": "gtention_cafe",
+      "password": "1234567",
+      "phone": "",
+      "userType": "DEALER"
+    }
+  },
+   "staffs":[  
+         {  
+            "staffRole":"STAFF",
+            "user":{  
+               "name":"",
+	       "userId":"gtention_cafe_s",
+               "password":"1234567",
+               "userType":"STAFF"
+            }
+         }
+      ],
+  "socialNetwork": {
+    "blog": "",
+    "cafe": "",
+    "facebook": "",
+    "instagram": "",
+    "kakaostory": "",
+    "site": "",
+    "twitter": ""
+  }
+}

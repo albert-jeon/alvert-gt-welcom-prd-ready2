@@ -1,0 +1,223 @@
+[
+  {
+    "productName": "LED 저주파 맞춤 스킨케어",
+    "productDesc": "선택 1. 수분+리페어링 \n 선택 2. 모공관리 +블랙헤드 \n 선택 3. 화이트닝관리 \n 선택 4. 리프팅관리 \n 선택 5. 트러블, 여드름 관리 \n [관리순서] \n 1차 클렌징 - 2차 딥클렌징 - 1차마스크팩 - 데콜테(목,어깨관리) - 페이스메뉴얼테크닉 - 1:1맞춤앰플 - 모델링 - 마무리",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 오브제스킨케어(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 오브제스킨케어(나래홀)에서만 이용이 가능합니다.",
+    "price": 60000,
+    "discount": 40000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/07-p1.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"obzeeskin"}}
+    }
+  },
+  {
+    "productName": "특수 스킨케어 (블랙해드/트러블/물광케어) 캐치필링",
+    "productDesc": "물광 메이크업 받는날 \n 물광캐치, 블랙해드캐치, 트러블캐치 \n 즉각적인 촉촉함과 물광효과 / \n 계절 관계없음 / 민감피부 / \n 블랙헤드, 모공대청소, 화장발 OK",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 오브제스킨케어(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 오브제스킨케어(나래홀)에서만 이용이 가능합니다.",
+    "price": 100000,
+    "discount": 60000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/07-p2.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"obzeeskin"}}
+    }
+  },
+  {
+    "productName": "바디통증 / 순환 집중관리",
+    "productDesc": "선택 1. 등관리 \n 선택 2. 하체관리 \n 선택 3. 복부관리 \n [관리순서] \n 기기관리-선택부분관리-온열테라피-마무리",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 오브제스킨케어(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 오브제스킨케어(나래홀)에서만 이용이 가능합니다.",
+    "price": 60000,
+    "discount": 50000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/07-p3.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"obzeeskin"}}
+    }
+  },
+  {
+    "productName": "전신순환관리",
+    "productDesc": "전체적인 혈액순환 촉진으로 근육경직 해소, 부종완화, 무기력증해소, 스트레스해소, 릭렉스 효과",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 오브제스킨케어(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 오브제스킨케어(나래홀)에서만 이용이 가능합니다.",
+    "price": 120000,
+    "discount": 120000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/07-p4.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"obzeeskin"}}
+    }
+  },
+  {
+    "productName": "페이스 스킨케어 + 등 순환관리",
+    "productDesc": "등관리 - 1차 클렌징 - 2차 딥클렌징 - 1차마스크팩 - 페이스메뉴얼테크닉 - 1:1맞춤앰플 - 모델링 - 마무리",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 오브제스킨케어(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 오브제스킨케어(나래홀)에서만 이용이 가능합니다.",
+    "price": 100000,
+    "discount": 80000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/07-p5.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"obzeeskin"}}
+    }
+  },
+  {
+    "productName": "왁싱_겨드랑이",
+    "productDesc": "왁싱_겨드랑이",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 오브제스킨케어(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 오브제스킨케어(나래홀)에서만 이용이 가능합니다.",
+    "price": 30000,
+    "discount": 30000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/07-p6.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"obzeeskin"}}
+    }
+  },
+  {
+    "productName": "왁싱_눈썹",
+    "productDesc": "왁싱_눈썹",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 오브제스킨케어(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 오브제스킨케어(나래홀)에서만 이용이 가능합니다.",
+    "price": 20000,
+    "discount": 20000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/07-p7.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"obzeeskin"}}
+    }
+  },
+  {
+    "productName": "왁싱_인중",
+    "productDesc": "왁싱_인중",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 오브제스킨케어(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 오브제스킨케어(나래홀)에서만 이용이 가능합니다.",
+    "price": 10000,
+    "discount": 10000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/07-p8.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"obzeeskin"}}
+    }
+  },
+  {
+    "productName": "왁싱_종아리",
+    "productDesc": "왁싱_종아리",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 오브제스킨케어(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 오브제스킨케어(나래홀)에서만 이용이 가능합니다.",
+    "price": 50000,
+    "discount": 50000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/07-p9.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"obzeeskin"}}
+    }
+  },
+  {
+    "productName": "왁싱_다리전체",
+    "productDesc": "왁싱_다리전체",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 오브제스킨케어(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 오브제스킨케어(나래홀)에서만 이용이 가능합니다.",
+    "price": 80000,
+    "discount": 80000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/07-p10.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"obzeeskin"}}
+    }
+  },
+  {
+    "productName": "왁싱_팔하프",
+    "productDesc": "왁싱_팔하프",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 오브제스킨케어(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 오브제스킨케어(나래홀)에서만 이용이 가능합니다.",
+    "price": 50000,
+    "discount": 50000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/07-p11.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"obzeeskin"}}
+    }
+  },
+  {
+    "productName": "왁싱_팔전체",
+    "productDesc": "왁싱_팔전체",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 오브제스킨케어(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 오브제스킨케어(나래홀)에서만 이용이 가능합니다.",
+    "price": 80000,
+    "discount": 80000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/07-p12.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"obzeeskin"}}
+    }
+  },
+  {
+    "productName": "왁싱_비키니",
+    "productDesc": "왁싱_비키니",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 오브제스킨케어(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 오브제스킨케어(나래홀)에서만 이용이 가능합니다.",
+    "price": 60000,
+    "discount": 60000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/07-p13.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"obzeeskin"}}
+    }
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "productName": "아메리카노",
+    "productDesc": "바디감이 풍부한 던킨 에스프레소 샷에 따뜻한 물을 섞어, 카카오의 플레이버와 깔끔한 에프터테이스트를 즐길 수 있는 가장 베이직한 커피 메뉴입니다.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 던킨도너츠(삼성탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 던킨도너츠 타 매장에서는 이용이 불가합니다.",
+    "price": 3000,
+    "discount": 2700,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/01-p1.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdunkin"}}]
+    }
+  },
+  {
+    "productName": "아이스 아메리카노",
+    "productDesc": "고온고압으로 추출한 에스프레소 샷에 차가운 물을 섞은 부드럽고 깔끔한 농도와 맛을 만들어내는 가장 Normal한 item.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 던킨도너츠(삼성탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 던킨도너츠 타 매장에서는 이용이 불가합니다.",
+    "price": 3500,
+    "discount": 3150,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/01-p2.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdunkin"}}]
+    }
+  },
+  {
+    "productName": "카페라떼",
+    "productDesc": "Cafe(커피) + Latte(우유) 에스프레소와 따뜻한 우유가 만나 커피의 향과 우유의 고소함이 느껴지는 Basic item.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 던킨도너츠(삼성탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 던킨도너츠 타 매장에서는 이용이 불가합니다.",
+    "price": 3300,
+    "discount": 2950,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/01-p3.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdunkin"}}]
+    }
+  },
+  {
+    "productName": "아이스 카페라떼",
+    "productDesc": "Cafe(커피) + Latte(우유) 에스프레소와 차가운 우유가 만나 커피의 향과 우유의 고소함이 느껴지는 Basic item.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 던킨도너츠(삼성탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 던킨도너츠 타 매장에서는 이용이 불가합니다.",
+    "price": 3600,
+    "discount": 3200,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/01-p4.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdunkin"}}]
+    }
+  },
+  {
+    "productName": "카라멜 던카치노",
+    "productDesc": "진짜 커피샷이 들어가 더욱 풍부한 맛! 카라멜 던카치노.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 던킨도너츠(삼성탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 던킨도너츠 타 매장에서는 이용이 불가합니다.",
+    "price": 4900,
+    "discount": 4400,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/01-p5.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdunkin"}}]
+    }
+  },
+  {
+    "productName": "카푸치노 던카치노",
+    "productDesc": "진짜 커피샷으로 만들어 더욱 깊고 풍부한 맛! 카푸치노 던카치노.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 던킨도너츠(삼성탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 던킨도너츠 타 매장에서는 이용이 불가합니다.",
+    "price": 4900,
+    "discount": 4400,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/01-p6.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdunkin"}}]
+    }
+  },
+  {
+    "productName": "스트로베리 바나나 쿨라타",
+    "productDesc": "상큼한 딸기와 달콤한 바나나가 시원하게 조화를 이룬 쿨라타! 쿨라타 중 가장 사랑받는 아이템.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 던킨도너츠(삼성탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 던킨도너츠 타 매장에서는 이용이 불가합니다.",
+    "price": 3900,
+    "discount": 3500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/01-p7.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdunkin"}}]
+    }
+  },
+  {
+    "productName": "자두 코코 쿨라타",
+    "productDesc": "쫄깃한 빨간 젤리와 함께 즐기는 상큼 달콤한 자두맛이 풍부한 자두 코코 쿨라타~",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 던킨도너츠(삼성탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 던킨도너츠 타 매장에서는 이용이 불가합니다.",
+    "price": 3900,
+    "discount": 3500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/01-p8.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdunkin"}}]
+    }
+  },
+  {
+    "productName": "청포도 봉봉 쿨라타",
+    "productDesc": "상큼한 청포도 알갱이가 씹혀 더욱 재밌고 리얼해진 쿨라타",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 던킨도너츠(삼성탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 던킨도너츠 타 매장에서는 이용이 불가합니다.",
+    "price": 3900,
+    "discount": 3500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/01-p9.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdunkin"}}]
+    }
+  },
+  {
+    "productName": "봉봉베리 쿨라타",
+    "productDesc": "포도의 상큼함과 베리의 달콤함이 만났다! 씹히는 과육으로 더욱 건강해진 쿨라타",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 던킨도너츠(삼성탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 던킨도너츠 타 매장에서는 이용이 불가합니다.",
+    "price": 3900,
+    "discount": 3500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/01-p10.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdunkin"}}]
+    }
+  },
+  {
+    "productName": "블루 모히또 에이드",
+    "productDesc": "에메랄드 빛 푸른 바다 블루 모히또 에이드",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 던킨도너츠(삼성탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 던킨도너츠 타 매장에서는 이용이 불가합니다.",
+    "price": 4200,
+    "discount": 3750,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/01-p11.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdunkin"}}]
+    }
+  },
+  {
+    "productName": "블루 빙하 크러쉬",
+    "productDesc": "바다를 부유하는 레몬 속 푸른 빙하",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 던킨도너츠(삼성탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 던킨도너츠 타 매장에서는 이용이 불가합니다.",
+    "price": 3900,
+    "discount": 3500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/01-p12.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdunkin"}}]
+    }
+  },
+  {
+    "productName": "블루 하와이안 크러쉬",
+    "productDesc": "상큼한 레몬 쿨라타와 블루 크러쉬의 이색 콜라보",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 던킨도너츠(삼성탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 던킨도너츠 타 매장에서는 이용이 불가합니다.",
+    "price": 4400,
+    "discount": 3950,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/01-p13.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdunkin"}}]
+    }
+  }
+]

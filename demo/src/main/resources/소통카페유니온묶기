@@ -1,0 +1,60 @@
+select * from store T1 where T1.dealerId in (
+select T1.dealerId from dealer T1, user T2 where T1.uuid=T2.uuid and T2.userId in ('cafewell', 'octave', 'gtention_cafe')
+)
+
+1266
+
+1262 1263   1264 1265
+
+
+
+http://localhost:8081/swagger-ui.html#!/union-api/addUnionUsingPOST
+---------------------------------Union
+{
+  "deleteYn": 2,
+  "joinCondition": "",
+  "saveUser": 0,
+  "unionDesc": "소통카페",
+  "unionId": 0,
+  "unionImgUrl": "",
+  "unionName": "소통카페",
+  "updateTime": "",
+  "updateUser": 0
+}
+
+------------------
+
+
+
+
+
+---------------------------------UnionStore
+{
+  "deleteYn": 2,
+  "joinStatus": "APPROVED",
+  "saveUser": 0,
+  "union": {
+	"unionId": 7
+  },
+  "store": {
+	"storeId": 1266
+  },
+  "unionRole": "MASTER",
+  "unionStoreId": 0,
+  "updateUser": 0
+}
+
+{
+  "deleteYn": 2,
+  "joinStatus": "APPROVED",
+  "saveUser": 0,
+  "union": {
+	"unionId": 7
+  },
+  "store": {
+	"storeId": 1262
+  },
+  "unionRole": "MEMBER",
+  "unionStoreId": 0,
+  "updateUser": 0
+}

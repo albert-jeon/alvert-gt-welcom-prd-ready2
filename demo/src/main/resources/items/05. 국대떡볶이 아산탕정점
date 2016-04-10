@@ -1,0 +1,104 @@
+[
+  {
+    "productName": "떡볶이",
+    "productDesc": "꼬치 오뎅 퐁당! 매콤달콤 100% 국산 청량고추만으로 맛을 낸 그때 그 떡볶이!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 국대떡볶이 아산탕정점(나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 국대떡볶이 타 매장에서는 이용이 불가합니다.",
+    "price": 2500,
+    "discount": 2500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/05-p1.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"dkiss0410"}}
+    }
+  },
+  {
+    "productName": "튀김(5개)",
+    "productDesc": "김말이, 오징어, 단호박, 고구마, 만두",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 국대떡볶이 아산탕정점(나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 국대떡볶이 타 매장에서는 이용이 불가합니다.",
+    "price": 2500,
+    "discount": 2500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/05-p2.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"dkiss0410"}}
+    }
+  },
+  {
+    "productName": "순대",
+    "productDesc": "수제로 제조된 정통 가마솥으로 쪄낸 깔끔한 맛의 순대.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 국대떡볶이 아산탕정점(나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 국대떡볶이 타 매장에서는 이용이 불가합니다.",
+    "price": 3000,
+    "discount": 3000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/05-p3.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"dkiss0410"}}
+    }
+  },
+  {
+    "productName": "오뎅",
+    "productDesc": "매일 신선한 재료로 우려낸 국물과 부산 직송의 오뎅!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 국대떡볶이 아산탕정점(나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 국대떡볶이 타 매장에서는 이용이 불가합니다.",
+    "price": 500,
+    "discount": 500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/05-p4.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"dkiss0410"}}
+    }
+  },
+  {
+    "productName": "옛날 떡꼬치",
+    "productDesc": "달짝지근 추억의 떡꼬치",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 국대떡볶이 아산탕정점(나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 국대떡볶이 타 매장에서는 이용이 불가합니다.",
+    "price": 700,
+    "discount": 700,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/05-p5.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"dkiss0410"}}
+    }
+  },
+  {
+    "productName": "핫도그",
+    "productDesc": "겉은 바삭, 속은 따뜻 핫도그!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 국대떡볶이 아산탕정점(나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 국대떡볶이 타 매장에서는 이용이 불가합니다.",
+    "price": 1400,
+    "discount": 1400,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/05-p6.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"dkiss0410"}}
+    }
+  }
+]

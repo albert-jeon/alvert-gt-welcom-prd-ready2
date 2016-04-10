@@ -1,0 +1,121 @@
+[
+  {
+    "productName": "크리스피 베이크",
+    "productDesc": "겉은 바삭하고 속은 촉촉한 크리스피 베이크 기본메뉴",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장 : 오븐에 빠진 닭 (나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 오븐에 빠진 닭 타 매장에서는 이용이 불가합니다.",
+    "price": 15900,
+    "discount": 15900,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/13-p1.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"kkw9160"}}
+    }
+  },
+  {
+    "productName": "크리스피 베이크 순살",
+    "productDesc": "신선한 닭 허벅다리살로만 만들어 더욱 담백하고, 뼈를 바를 필요가 없어 깔끔한 걸 좋아하는 센스쟁이들에게 딱!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장 : 오븐에 빠진 닭 (나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 오븐에 빠진 닭 타 매장에서는 이용이 불가합니다.",
+    "price": 16900,
+    "discount": 16900,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/13-p2.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"kkw9160"}}
+    }
+  },
+  {
+    "productName": "오리지널 로스트",
+    "productDesc": "고온의 오븐 속에서 바싹 구운 고소하고 부드러운 저칼로리 치킨",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장 : 오븐에 빠진 닭 (나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 오븐에 빠진 닭 타 매장에서는 이용이 불가합니다.",
+    "price": 14900,
+    "discount": 14900,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/13-p3.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"kkw9160"}}
+    }
+  },
+  {
+    "productName": "오리지널 로스트 순살",
+    "productDesc": "요조숙녀라면 손에 기름 묻는 건 용납 못해!! 뼈를 발라낼 필요가 없으니 조신하게 먹을 수 있어요~ 데이트 중인 분들에게 강추!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장 : 오븐에 빠진 닭 (나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 오븐에 빠진 닭 타 매장에서는 이용이 불가합니다.",
+    "price": 15900,
+    "discount": 15900,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/13-p4.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"kkw9160"}}
+    }
+  },
+  {
+    "productName": "파파닭 로스트",
+    "productDesc": "대파+양파+순살로스트 새콤한 초소스로 버무린 아삭한 파채와 쫄깃한 순살 로스트",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장 : 오븐에 빠진 닭 (나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 오븐에 빠진 닭 타 매장에서는 이용이 불가합니다.",
+    "price": 19900,
+    "discount": 19900,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/13-p5.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"kkw9160"}}
+    }
+  },
+  {
+    "productName": "치즈스프링클 (전체)",
+    "productDesc": "치즈가득! 핵이득! 스윗한 허니버터와 고소한 치즈의 달달한 어울림~ 입안 가득 퍼지는 풍미 가득한 치즈맛의 감동~",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장 : 오븐에 빠진 닭 (나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 오븐에 빠진 닭 타 매장에서는 이용이 불가합니다.",
+    "price": 17900,
+    "discount": 17900,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/13-p6.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"kkw9160"}}
+    }
+  },
+  {
+    "productName": "상큼허니 (전체)",
+    "productDesc": "기분까지 상큼허니? 향긋하고 상큼한 레몬소스와 달콤한허니의 환상적인 만남~ 맥주와 함께 먹으면 기분까지 상큼해지는 느낌",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장 : 오븐에 빠진 닭 (나래홀) \n ※ 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 오븐에 빠진 닭 타 매장에서는 이용이 불가합니다.",
+    "price": 17900,
+    "discount": 17900,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/13-p7.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"kkw9160"}}
+    }
+  }
+]

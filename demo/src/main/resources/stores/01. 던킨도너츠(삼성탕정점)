@@ -1,0 +1,62 @@
+{  
+      "storeCategory":"ST02",
+      "storeCode":"1005",
+      "storeDesc":"던킨도너츠(삼성탕정점)",
+      "storeName":"던킨도너츠(삼성탕정점)",
+      "workTime":"08:00 ~ 22:00",
+      "address":{  
+         "addrDetail":"삼성디스플레이 아산 1캠퍼스 푸드존 1층",
+         "addrMain":"충청남도 아산시 탕정면 삼성로 181",
+         "postCode":""
+      },
+      "tel":"041-535-7012",
+      "hollayDay":"명절(추석, 설)",
+      "photos":[  
+         {  
+            "domainName":"STORE",
+            "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/stores/01-s1.jpg"
+         },
+         {  
+            "domainName":"STORE",
+            "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/stores/01-s2.jpg"
+         },
+         {  
+            "domainName":"STORE",
+            "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/stores/01-s3.jpg"
+         }
+      ],
+      "certifiedNumber":"",
+      "certifiedPaper":"",
+      "convenience":{  
+         "groupseat":"Y",
+         "pack":"Y",
+         "parking":"N",
+         "reservation":"Y",
+         "wifi":"Y"
+      },
+      "dealer":{  
+         "user":{  
+            "email":"kwsekim@naver.com"
+         }
+      },
+      "staffs":[  
+         {  
+            "staffRole":"STAFF",
+            "user":{  
+               "name":"던킨도너츠(삼성탕정점) 스탭",
+               "userId":"sdcdunkin",
+               "password":"1q2w3e4r",
+               "userType":"STAFF"
+            }
+         }
+      ],
+      "socialNetwork":{  
+         "blog":"",
+         "cafe":"",
+         "facebook":"",
+         "instagram":"",
+         "kakaostory":"",
+         "site":"",
+         "twitter":""
+      }
+}

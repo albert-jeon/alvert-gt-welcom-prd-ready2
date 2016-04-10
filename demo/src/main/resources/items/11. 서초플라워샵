@@ -1,0 +1,87 @@
+[
+  {
+    "productName": "30,000원 이용권",
+    "productDesc": "교환권 해당금액의 꽃다발, 꽃상자, 관엽식물, 란, 화환 등을 마음을 담아 선물해보세요",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 서초플라워샵 (복지동 3층) \n ※ 해당 교환권은 서초플라워샵 (복지동 3층)에서만 이용이 가능합니다.",
+    "price": 30000,
+    "discount": 30000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/11-p1.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"g5714555"}}
+    }
+  },
+  {
+    "productName": "50,000원 이용권",
+    "productDesc": "교환권 해당금액의 꽃다발, 꽃상자, 관엽식물, 란, 화환 등을 마음을 담아 선물해보세요",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 서초플라워샵 (복지동 3층) \n ※ 해당 교환권은 서초플라워샵 (복지동 3층)에서만 이용이 가능합니다.",
+    "price": 50000,
+    "discount": 50000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/11-p2.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"g5714555"}}
+    }
+  },
+  {
+    "productName": "70,000원 이용권",
+    "productDesc": "교환권 해당금액의 꽃다발, 꽃상자, 관엽식물, 란, 화환 등을 마음을 담아 선물해보세요",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 서초플라워샵 (복지동 3층) \n ※ 해당 교환권은 서초플라워샵 (복지동 3층)에서만 이용이 가능합니다.",
+    "price": 70000,
+    "discount": 70000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/11-p3.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"g5714555"}}
+    }
+  },
+  {
+    "productName": "100,000원 이용권",
+    "productDesc": "교환권 해당금액의 꽃다발, 꽃상자, 관엽식물, 란, 화환 등을 마음을 담아 선물해보세요",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 서초플라워샵 (복지동 3층) \n ※ 해당 교환권은 서초플라워샵 (복지동 3층)에서만 이용이 가능합니다.",
+    "price": 100000,
+    "discount": 100000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/11-p4.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"g5714555"}}
+    }
+  },
+  {
+    "productName": "150,000원 이용권",
+    "productDesc": "교환권 해당금액의 꽃다발, 꽃상자, 관엽식물, 란, 화환 등을 마음을 담아 선물해보세요",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 서초플라워샵 (복지동 3층) \n ※ 해당 교환권은 서초플라워샵 (복지동 3층)에서만 이용이 가능합니다.",
+    "price": 150000,
+    "discount": 150000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/11-p5.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"g5714555"}}
+    }
+  }
+]

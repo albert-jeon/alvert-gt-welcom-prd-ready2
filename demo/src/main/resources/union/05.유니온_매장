@@ -1,0 +1,14 @@
+{
+  "deleteYn": 2,
+  "joinStatus": "APPROVED",
+  "saveUser": 0,
+  "union": {
+	"unionId": 7
+  },
+  "store": {
+	"storeId": 1266
+  },
+  "unionRole": "MASTER",
+  "unionStoreId": 0,
+  "updateUser": 0
+}

@@ -1,0 +1,87 @@
+[
+  {
+    "productName": "황금올리브 치킨(후라이드)",
+    "productDesc": "BBQ만의 황금빛 파우더가 선사하는 잊을 수 없는 바삭바삭함과 육즙 가득 퍼지는 부드러운 속살이 환상적인 맛!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: BBQ 치킨 (삼성전자탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 매장 방문 고객에 한하여 이용 가능합니다. \n ※ 해당 교환권은 BBQ 치킨 타 매장에서는 이용이 불가합니다.",
+    "price": 16000,
+    "discount": 15000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/04-p1.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"ksy0109"}}
+    }
+  },
+  {
+    "productName": "황금올리브 치킨(양념)",
+    "productDesc": "입안에 퍼지는 부드러운 매콤한 맛의 황금올리브 양념치킨!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: BBQ 치킨 (삼성전자탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 매장 방문 고객에 한하여 이용 가능합니다. \n ※ 해당 교환권은 BBQ 치킨 타 매장에서는 이용이 불가합니다.",
+    "price": 17000,
+    "discount": 16000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/04-p2.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"ksy0109"}}
+    }
+  },
+  {
+    "productName": "치킨강정(순살)",
+    "productDesc": "달콤함 속의 은은하게 퍼지는 매콤함이 일품인 강정소스를 바삭한 순살 치킨에 듬뿍 버무려 입 속 가득 달콤매콤 순살 치킨강정.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: BBQ 치킨 (삼성전자탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 매장 방문 고객에 한하여 이용 가능합니다. \n ※ 해당 교환권은 BBQ 치킨 타 매장에서는 이용이 불가합니다.",
+    "price": 18000,
+    "discount": 18000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/04-p3.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"ksy0109"}}
+    }
+  },
+  {
+    "productName": "허니갈릭스",
+    "productDesc": "달콤~한 꿀마늘향 허니갈릭스!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: BBQ 치킨 (삼성전자탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 매장 방문 고객에 한하여 이용 가능합니다. \n ※ 해당 교환권은 BBQ 치킨 타 매장에서는 이용이 불가합니다.",
+    "price": 18900,
+    "discount": 18900,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/04-p4.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"ksy0109"}}
+    }
+  },
+  {
+    "productName": "양파의 청춘",
+    "productDesc": "순살치킨 위에 상큼 아삭한 양파채를 듬뿍 올린 후, 그 위에 새콤달콤한 드림칠리소스를 골고루 듬뿍 뿌려 먹으면…“달콤한 인생, 양파의 청춘!”",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: BBQ 치킨 (삼성전자탕정점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 매장 방문 고객에 한하여 이용 가능합니다. \n ※ 해당 교환권은 BBQ 치킨 타 매장에서는 이용이 불가합니다.",
+    "price": 19000,
+    "discount": 18500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/04-p5.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"ksy0109"}}
+    }
+  }
+]

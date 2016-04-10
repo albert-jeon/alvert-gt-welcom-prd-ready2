@@ -1,0 +1,104 @@
+[
+  {
+    "productName": "네일 기본",
+    "productDesc": "케어+컬러+마사지",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 클라라네일아트(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 클라라네일아트(나래홀)에서만 이용이 가능합니다.",
+    "price": 17000,
+    "discount": 17000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/08-p1.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"wa0986118"}}
+    }
+  },
+  {
+    "productName": "젤네일",
+    "productDesc": "드라이케어+젤컬러",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 클라라네일아트(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 클라라네일아트(나래홀)에서만 이용이 가능합니다.",
+    "price": 50000,
+    "discount": 50000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/08-p2.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"wa0986118"}}
+    }
+  },
+  {
+    "productName": "패디큐어 기본",
+    "productDesc": "케어+컬러",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 클라라네일아트(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 클라라네일아트(나래홀)에서만 이용이 가능합니다.",
+    "price": 35000,
+    "discount": 35000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/08-p3.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"wa0986118"}}
+    }
+  },
+  {
+    "productName": "젤패디큐어",
+    "productDesc": "드라이케어+젤컬러",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 클라라네일아트(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 클라라네일아트(나래홀)에서만 이용이 가능합니다.",
+    "price": 70000,
+    "discount": 70000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/08-p4.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"wa0986118"}}
+    }
+  },
+  {
+    "productName": "속눈썹 연장_실크",
+    "productDesc": "또렷한 눈매를 원하시는 분께 추천!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 클라라네일아트(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 클라라네일아트(나래홀)에서만 이용이 가능합니다.",
+    "price": 40000,
+    "discount": 40000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/08-p5.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"wa0986118"}}
+    }
+  },
+  {
+    "productName": "속눈썹 연장_인모",
+    "productDesc": "자연스럽고 가벼운 컬을 원하시는 분께 강추!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 클라라네일아트(나래홀) \n ※ 해당 상품은 매장에서 환불이 불가능합니다. \n ※ 해당 교환권은 클라라네일아트(나래홀)에서만 이용이 가능합니다.",
+    "price": 60000,
+    "discount": 60000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/08-p6.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"wa0986118"}}
+    }
+  }
+]

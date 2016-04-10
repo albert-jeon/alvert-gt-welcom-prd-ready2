@@ -1,0 +1,359 @@
+[
+  {
+    "productName": "아메리카노 (hot / ice)",
+    "productDesc": "에스프레소의 물을 부은 커피로 깊은 맛과 향이 특징",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 4500,
+    "discount": 2700,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p1.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "카푸치노",
+    "productDesc": "에스프레소에 부드러운 우유거품을 가득 올린 커피",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 5000,
+    "discount": 2900,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p2.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "카페라떼",
+    "productDesc": "에스프레소에 신선한 밀크와 부드러운 우유거품을 살짝 올린 커피",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 5000,
+    "discount": 2900,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p3.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "마카롱 (낱개)",
+    "productDesc": "바삭한 과자 사이에 부드러운 크림이 가득한 프랑스 정통과자, 마카롱!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 2000,
+    "discount": 2000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p4.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "카페모카",
+    "productDesc": "에스프레소에 신선한 밀크와 초콜릿을 더해 달콤하면서 쌉싸름한 맛의 커피",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 5500,
+    "discount": 3400,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p5.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "카라멜마키아또",
+    "productDesc": "에스프레소와 신선한 우유에 카라멜을 드리즐 하여 달콤한 카라멜향이 특징인 커피",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 5900,
+    "discount": 3400,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p6.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "바닐라라떼",
+    "productDesc": "에스프레소와 신선한 우유에 바닐라 시럽을 더해 달콤한 맛과 향이 특징인 커피",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 5500,
+    "discount": 3100,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p7.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "마카롱 세트 (10개)",
+    "productDesc": "바삭한 과자 사이에 부드러운 크림이 가득한 프랑스 정통과자, 마카롱! 다양한 맛에 달콤한 디저트!(선물 포장비가 포함된 금액입니다)",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 22000,
+    "discount": 22000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p8.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "퓨어 그린티 라떼",
+    "productDesc": "달콤한 쌉싸름한 맛이 인상적인 퓨어그린티 라떼",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 5700,
+    "discount": 3400,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p9.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "잉글리쉬 티 라떼",
+    "productDesc": "향긋한 홍차 파우더에 고소한 우유가 더해진 음료",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 5700,
+    "discount": 3400,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p10.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "더블 초콜릿",
+    "productDesc": "진한 초콜릿에 신선한 밀크가 더해진 달콤한 음료",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 5100,
+    "discount": 3400,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p11.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "마카롱 세트 (20개)",
+    "productDesc": "바삭한 과자 사이에 부드러운 크림이 가득한 프랑스 정통과자, 마카롱! 다양한 맛에 달콤한 디저트!(선물 포장비가 포함된 금액입니다)",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 42000,
+    "discount": 42000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p12.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "프라페따 (5종 중 택1)",
+    "productDesc": "새콤달콤한 과일 맛을 시원하게 느낄 수 있는 아이스 음료",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 6200,
+    "discount": 4100,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p13.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "에이드 (5종 중 택1)",
+    "productDesc": "상큼한 향과 탄산의 청량함을 함께 느낄 수 있는 음료",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 2900,
+    "discount": 2900,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p14.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "원통쿠키(5종 중 택1)",
+    "productDesc": "정성스럽게 구워낸 다양한 정통 유럽식 쿠키!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 9000,
+    "discount": 9000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p15.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "쉬폰케익(초코, 얼그레이)",
+    "productDesc": "순수한 우유로 만든 100% 동물성 생크림을 사용하여 훨씬 부드럽고 깔끔한 맛의 쉬폰 케이크 (초코쉬폰 케이크, 얼그레이 쉬폰 케이크)",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 34000,
+    "discount": 25000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p16.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "모카 쉬폰 케이크",
+    "productDesc": "순수한 우유로 만든 100% 동물성 생크림을 사용하여 훨씬 부드럽고 깔끔한 맛의 쉬폰 케이크",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 34000,
+    "discount": 24000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p17.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "자허토르테 케익",
+    "productDesc": "촉촉한 초코시트가 진한 초콜릿으로 둘러싸인 한 층 더 깊은 맛의 초콜릿 케이크",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 36000,
+    "discount": 26000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p18.jpg"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "테디베어 (베베)",
+    "productDesc": "100% 수작업으로 만들어 정성이 더해지는 아티제 테디베어",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 11000,
+    "discount": 11000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p19.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "테디베어 (쁘띠)",
+    "productDesc": "100% 수작업으로 만들어 정성이 더해지는 아티제 테디베어",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 13000,
+    "discount": 13000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p20.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  },
+  {
+    "productName": "테디베어 (그랑)",
+    "productDesc": "100% 수작업으로 만들어 정성이 더해지는 아티제 테디베어",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 상품으로 교환시 잔액 지급 불가. \n    클럽 아티제 포인트 적립 불가. \n    매장에서 환불 불가. \n    교환처에서 상품 교환 완료 후 주문취소 불가. \n    이미지 사진으로 실제와 다를 수 있습니다. \n 3. 이용 가능 매장: 아티제 탕정점(나래홀) \n ※ 해당 교환권은 아티제 타 매장에서는 이용이 불가합니다.",
+    "price": 25000,
+    "discount": 25000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/09-p21.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "dealer": {"user":{"userId":"arti024"}}
+    }
+  }
+]

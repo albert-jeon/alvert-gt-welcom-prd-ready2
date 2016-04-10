@@ -1,0 +1,172 @@
+[
+  {
+    "productName": "싱글레귤러(CONE & CUP)",
+    "productDesc": "원하는 맛의 아이스크림을 싱글레귤러로 즐기세요!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 배스킨라빈스(탕정삼성전자점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 배스킨라빈스 타 매장에서는 이용이 불가합니다. \n ※ 해당 교환권은 타제품으로의 교환은 불가합니다. 단, 메뉴 단종시 동등가격의 다른 제품으로 제공될 수 있습니다.",
+    "price": 2800,
+    "discount": 2500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/02-p1.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcbaskin"}}]
+    }
+  },
+  {
+    "productName": "믹스앤쉐이크",
+    "productDesc": "바닐라 아이스크림과 내가 원하는 아이스크림과의 절묘한 조화! BR만의 더욱 진한 프리미엄 쉐이크",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 배스킨라빈스(탕정삼성전자점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 배스킨라빈스 타 매장에서는 이용이 불가합니다. \n ※ 해당 교환권은 타제품으로의 교환은 불가합니다. 단, 메뉴 단종시 동등가격의 다른 제품으로 제공될 수 있습니다.",
+    "price": 5200,
+    "discount": 4650,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/02-p2.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcbaskin"}}]
+    }
+  },
+  {
+    "productName": "카푸치노 블라스트_오리지널",
+    "productDesc": "부드럽고 달콤한 아이스크림 커피의 대표 음료",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 배스킨라빈스(탕정삼성전자점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 배스킨라빈스 타 매장에서는 이용이 불가합니다. \n ※ 해당 교환권은 타제품으로의 교환은 불가합니다. 단, 메뉴 단종시 동등가격의 다른 제품으로 제공될 수 있습니다.",
+    "price": 4000,
+    "discount": 3600,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/02-p3.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcbaskin"}}]
+    }
+  },
+  {
+    "productName": "카푸치노 블라스트_모카",
+    "productDesc": "달콤한 초코시럽이 첨가되어 더욱 깊고 풍부한 맛이 특징",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 배스킨라빈스(탕정삼성전자점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 배스킨라빈스 타 매장에서는 이용이 불가합니다. \n ※ 해당 교환권은 타제품으로의 교환은 불가합니다. 단, 메뉴 단종시 동등가격의 다른 제품으로 제공될 수 있습니다.",
+    "price": 4500,
+    "discount": 4050,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/02-p4.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcbaskin"}}]
+    }
+  },
+  {
+    "productName": "파인트 아이스크림",
+    "productDesc": "3가지 맛을 골라먹는 재미가 있는 사이즈",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 배스킨라빈스(탕정삼성전자점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 배스킨라빈스 타 매장에서는 이용이 불가합니다. \n ※ 해당 교환권은 타제품으로의 교환은 불가합니다. 단, 메뉴 단종시 동등가격의 다른 제품으로 제공될 수 있습니다.",
+    "price": 7200,
+    "discount": 6450,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/02-p5.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcbaskin"}}]
+    }
+  },
+  {
+    "productName": "쿼터 아이스크림",
+    "productDesc": "4가지 맛을 골라먹는 재미가 있는 사이즈",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 배스킨라빈스(탕정삼성전자점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 배스킨라빈스 타 매장에서는 이용이 불가합니다. \n ※ 해당 교환권은 타제품으로의 교환은 불가합니다. 단, 메뉴 단종시 동등가격의 다른 제품으로 제공될 수 있습니다.",
+    "price": 13500,
+    "discount": 12150,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/02-p6.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcbaskin"}}]
+    }
+  },
+  {
+    "productName": "패밀리 아이스크림",
+    "productDesc": "5가지 맛을 골라먹는 재미가 있는 사이즈",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 배스킨라빈스(탕정삼성전자점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 배스킨라빈스 타 매장에서는 이용이 불가합니다. \n ※ 해당 교환권은 타제품으로의 교환은 불가합니다. 단, 메뉴 단종시 동등가격의 다른 제품으로 제공될 수 있습니다.",
+    "price": 19500,
+    "discount": 17550,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/02-p7.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcbaskin"}}]
+    }
+  },
+  {
+    "productName": "하프갤런 아이스크림",
+    "productDesc": "6가지 맛을 골라먹는 재미가 있는 사이즈",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 배스킨라빈스(탕정삼성전자점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 배스킨라빈스 타 매장에서는 이용이 불가합니다. \n ※ 해당 교환권은 타제품으로의 교환은 불가합니다. 단, 메뉴 단종시 동등가격의 다른 제품으로 제공될 수 있습니다.",
+    "price": 23500,
+    "discount": 21150,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/02-p8.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcbaskin"}}]
+    }
+  },
+  {
+    "productName": "아이스크림 케잌(달콤달콤 스윗큐브)",
+    "productDesc": "체리쥬빌레, 슈팅스타등 6가지 맛 케익",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 배스킨라빈스(탕정삼성전자점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 배스킨라빈스 타 매장에서는 이용이 불가합니다. \n ※ 해당 교환권은 타제품으로의 교환은 불가합니다. 단, 메뉴 단종시 동등가격의 다른 제품으로 제공될 수 있습니다.",
+    "price": 24000,
+    "discount": 21600,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/02-p9.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcbaskin"}}]
+    }
+  },
+  {
+    "productName": "아이스크림 케잌(듀얼 왓츄원 No.9)",
+    "productDesc": "아몬드봉봉, 엄마는외계인등 9가지 맛 케익",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 배스킨라빈스(탕정삼성전자점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 배스킨라빈스 타 매장에서는 이용이 불가합니다. \n ※ 해당 교환권은 타제품으로의 교환은 불가합니다. 단, 메뉴 단종시 동등가격의 다른 제품으로 제공될 수 있습니다.",
+    "price": 30000,
+    "discount": 27000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/02-p10.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcbaskin"}}]
+    }
+  }
+]

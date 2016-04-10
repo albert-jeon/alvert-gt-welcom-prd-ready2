@@ -1,0 +1,172 @@
+[
+  {
+    "productName": "씨푸드 퐁듀L",
+    "productDesc": "홍게살, 새우, 통관자가 퐁듀치즈소스에 퐁당!!!! \n ※ 나폴리도우 한정, 방문포장에 한하여 이용가능합니다.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 도미노피자(탕정삼성점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 도미노피자 타 매장에서는 이용이 불가합니다.",
+    "price": 32900,
+    "discount": 23000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/03-p1.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdomino"}}]
+    }
+  },
+  {
+    "productName": "쉬프림스L",
+    "productDesc": "지중해풍 대하서사시 쉬프림스!! \n ※ 나폴리도우 한정, 방문포장에 한하여 이용가능합니다.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 도미노피자(탕정삼성점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 도미노피자 타 매장에서는 이용이 불가합니다.",
+    "price": 31900,
+    "discount": 22300,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/03-p2.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdomino"}}]
+    }
+  },
+  {
+    "productName": "갈릭 스테이크L",
+    "productDesc": "정통 이탈리안 갈릭 스테이크!!! \n ※ 나폴리도우 한정, 방문포장에 한하여 이용가능합니다.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 도미노피자(탕정삼성점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 도미노피자 타 매장에서는 이용이 불가합니다.",
+    "price": 32900,
+    "discount": 23000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/03-p3.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdomino"}}]
+    }
+  },
+  {
+    "productName": "치즈케이크샌드L",
+    "productDesc": "도우까지 맛있어야 피자맛이 완벽해진다~!!! \n ※ 나폴리도우 한정, 방문포장에 한하여 이용가능합니다.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 도미노피자(탕정삼성점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 도미노피자 타 매장에서는 이용이 불가합니다.",
+    "price": 32900,
+    "discount": 23000,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/03-p4.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdomino"}}]
+    }
+  },
+  {
+    "productName": "리얼바베큐L",
+    "productDesc": "숯불 특유의 그윽한 맛과 향이 가득~!!! \n ※ 나폴리도우 한정, 방문포장에 한하여 이용가능합니다.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 도미노피자(탕정삼성점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 도미노피자 타 매장에서는 이용이 불가합니다.",
+    "price": 27900,
+    "discount": 19500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/03-p5.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdomino"}}]
+    }
+  },
+  {
+    "productName": "포테이토L",
+    "productDesc": "남녀노소 모두 좋아하는 웰빙피자!!! \n ※ 나폴리도우 한정, 방문포장에 한하여 이용가능합니다.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 도미노피자(탕정삼성점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 도미노피자 타 매장에서는 이용이 불가합니다.",
+    "price": 24900,
+    "discount": 17400,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/03-p6.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdomino"}}]
+    }
+  },
+  {
+    "productName": "슈퍼디럭스L",
+    "productDesc": "누구에게나 사랑받는 기본메뉴!!! \n ※ 나폴리도우 한정, 방문포장에 한하여 이용가능합니다.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 도미노피자(탕정삼성점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 도미노피자 타 매장에서는 이용이 불가합니다.",
+    "price": 24900,
+    "discount": 17400,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/03-p7.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdomino"}}]
+    }
+  },
+  {
+    "productName": "불고기L",
+    "productDesc": "한국의 대표음식 불고기와 피자의 만남!!! \n ※ 나폴리도우 한정, 방문포장에 한하여 이용가능합니다.",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 도미노피자(탕정삼성점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 도미노피자 타 매장에서는 이용이 불가합니다.",
+    "price": 23900,
+    "discount": 16700,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/03-p8.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdomino"}}]
+    }
+  },
+  {
+    "productName": "치즈볼로네즈 스파게티",
+    "productDesc": "신선한 토마토만을 골라 만든 신선한 소스에 다진 쇠고기와 버섯까지 듬뿍! 자연의 깊은 맛과 치즈의 풍부한 맛이 어우러지는 정통 이탈리안 파스타!!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 도미노피자(탕정삼성점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 도미노피자 타 매장에서는 이용이 불가합니다.",
+    "price": 7800,
+    "discount": 7500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/03-p9.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdomino"}}]
+    }
+  },
+  {
+    "productName": "크리스피 치킨텐더 (6조각)",
+    "productDesc": "닭고기의 안심을 후추, 마늘 등으로 시즈닝하여 튀기고 오븐에굽워 겉은 바삭, 속은 부드러운 뼈없는 치킨텐더!!",
+    "caution": "1. 유효기간: 60일 \n 2. 이용조건: 권면가액 미만 사용 시 잔액 사용이 불가하며, 잔액은 지불되지 않습니다. \n 3. 이용 가능 매장: 도미노피자(탕정삼성점) \n 4. 상품 이미지는 실제 상품과 다소 상이할 수 있습니다. \n ※ 해당 교환권은 도미노피자 타 매장에서는 이용이 불가합니다.",
+    "price": 7800,
+    "discount": 7500,
+    "images": [
+ {
+ "domainName":"PRODUCT",
+ "url":"https://s3-ap-northeast-1.amazonaws.com/welcom/prd/products/03-p10.png"
+ }
+ ],    
+    "productType": "PRODUCT",
+    "store": {
+      "staffs": [{"user":{"userId":"sdcdomino"}}]
+    }
+  }
+]
